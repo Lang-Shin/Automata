@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Activity1 {
+public class Comment {
 
     static String validComment(String s) {
 
